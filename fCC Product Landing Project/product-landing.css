@@ -158,20 +158,19 @@ a {
 	margin: 0;
 }
 footer {
+	display: flex;
 	margin-top: 10%;
 	background-color: #55beef;
 }
 .contact {
-	display: inline-block;
-	width: 50%;
+	margin-right: auto;
+	margin-left: 5px;
 	background-color: #55beef;
 	color: #0a0a23;
 }
 .copyright {
-	display: inline;
-	width: 50%;
-	float: right;
-	text-align: right;
+	margin-left: auto;
+	margin-right: 5px;
 	background-color: #55beef;
 	color: #0a0a23;
 }
